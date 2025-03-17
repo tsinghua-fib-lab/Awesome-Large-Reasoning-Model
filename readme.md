@@ -8,7 +8,7 @@
 
 ### Data Construction: from Human Annotation to LLM Automation
 
-![data_construction](/Users/pluto/Desktop/Reasoning-Github/Awesome-Large-Reasoning-Model/assets/data_construction.jpg)
+![data_construction](assets/data_construction.jpg)
 
 
 
