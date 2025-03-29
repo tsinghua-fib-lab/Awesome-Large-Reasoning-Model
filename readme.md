@@ -37,7 +37,15 @@
 
 #### 4.1 Optimizing Pre-trained LLM: Supervised Fine-tuning
 
+- Reasonbert: Pre-trained to reason with distant supervision (10 Sep 2021)
+
+- On the impact of fine-tuning on chain-of-thought reasoning (22 Nov 2024)
+
 #### 4.2 Optimizing Pre-trained LLM: Reinforcement Learning
+
+- Training language models to follow instructions with human feedback (4 Mar 2022)
+- Training a helpful and harmless assistant with reinforcement learning from human feedback (12 Apr 2022)
+- Constitutional ai: Harmlessness from ai feedback (15 Dec 2022)
 
 #### 4.3 Enhancing Multi-step Reasoning with Outcome Reward Model
 
